@@ -5,6 +5,8 @@ from __future__ import unicode_literals
 AUTHOR = 'Christopher Sanchez'
 SITENAME = 'Data Sancheneer'
 SITEURL = ''
+THEME = 'themes/nmnlist'
+LOAD_CONTENT_CACHE = False
 
 PATH = 'content'
 
